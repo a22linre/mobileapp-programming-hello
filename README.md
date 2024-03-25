@@ -7,7 +7,7 @@ den nya koden:
 
 ```
 <resources>
-    <string name="app_name">Tjena</string>
+    <string name="app_name">Tjena123</string>
 </resources>
 ```
 
