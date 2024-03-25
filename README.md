@@ -13,6 +13,6 @@ den nya koden:
 
 Resultatet:
 
-![](![img.png](img.png))
+(![img.png](img.png))
 
 
